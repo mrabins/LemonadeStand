@@ -254,7 +254,7 @@
                                     <rect key="frame" x="163" y="170" width="112" height="21"/>
                                 </variation>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="lemonade-stand-300x300" translatesAutoresizingMaskIntoConstraints="NO" id="QdL-PF-oQs">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="lemonade-stand" translatesAutoresizingMaskIntoConstraints="NO" id="QdL-PF-oQs">
                                 <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="85" y="19" width="150" height="119"/>
@@ -362,6 +362,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="lemonade-stand-300x300" width="300" height="300"/>
+        <image name="lemonade-stand" width="300" height="300"/>
     </resources>
 </document>
